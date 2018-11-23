@@ -1,2 +1,2 @@
 # invie
-Las guitarras mas locas. Tomado dell curso de desarrollo web de Platzi.
+Las guitarras mas locas. Tomado del curso de desarrollo web de Platzi.
